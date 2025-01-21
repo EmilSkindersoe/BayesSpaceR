@@ -19,9 +19,7 @@ library(viridis) #Coloring of the plots
 
 
 #To begin, some functions for calculating bin selection
-skewness<-function(x){
-  return(mean((x-mean(x))^3/sd(x)^3))
-}
+
 doane<-function(data){
   n <- length(data)
   g1 <- skewness(data)
