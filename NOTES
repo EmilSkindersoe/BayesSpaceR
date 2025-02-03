@@ -1,4 +1,20 @@
 This files serves for leaving notes of any kind for others.
+-----------------------------------------------------------------------------------------------------------------------------
+Hi all,
 
+I created the package, you can find the file ZBsplines, which is the main folder of the package and includes:
+    R - folder where all the functions of the package will be saved
+    man - folder with manuals of the functions
+    DESCRIPTION - description of the package for publushing, I wrote a draft, will be adjusted in the future
+
+Those are the most important files, I also have some other important notes:
+    Please, make sure that you are using UTF-8 encoding.
+    The package is configurated to generate documentation with the Roxygen package, do not create the documentation by hand.
+    Always use the roxygen skeleton when building the functions, but it can be done later additionally.
+    I will also include the file for the data.
+    And of course I will start with the implementation of the functions (from Emil) and conversion our codes from Matlab.
+
+Stanislav
+-----------------------------------------------------------------------------------------------------------------------------
 
 
