@@ -12,7 +12,7 @@ Those are the most important files, I also have some other important notes:
     The package is configurated to generate documentation with the Roxygen package, do not create the documentation by hand.
     Always use the roxygen skeleton when building the functions, but it can be done later additionally.
     I will also include the file for the data.
-    And of course I will start with the implementation of the functions (from Emil) and conversion our codes from Matlab.
+    And of course I will start with the implementation of the functions (from Emil) and conversion of our codes from Matlab.
 
 Stanislav
 -----------------------------------------------------------------------------------------------------------------------------
