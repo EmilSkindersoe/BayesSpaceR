@@ -5,7 +5,7 @@ Hi all,
 I created the package, you can find the file ZBsplines, which is the main folder of the package and includes:
     R - folder where all the functions of the package will be saved
     man - folder with manuals of the functions
-    DESCRIPTION - description of the package for publushing, I wrote a draft, will be adjusted in the future
+    DESCRIPTION - description of the package for publushing, I wrote a draft, it will be adjusted in the future
 
 Those are the most important files, I also have some other important notes:
     Please, make sure that you are using UTF-8 encoding.
